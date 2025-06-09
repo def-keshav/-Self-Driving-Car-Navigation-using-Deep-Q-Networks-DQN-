@@ -1,0 +1,5 @@
+[0.012s] Invoking command in '/home/kshitij/project5_ws/build/rrt': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/kshitij/project5_ws/build/rrt -- -j12 -l12
+[0.052s] gmake[2]: *** No rule to make target 'CMakeFiles/task.dir/build'.  Stop.
+[0.052s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/task.dir/all] Error 2
+[0.052s] gmake: *** [Makefile:146: all] Error 2
+[0.055s] Invoked command in '/home/kshitij/project5_ws/build/rrt' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/kshitij/project5_ws/build/rrt -- -j12 -l12

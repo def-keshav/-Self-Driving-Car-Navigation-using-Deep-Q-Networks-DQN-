@@ -1,0 +1,5 @@
+[0.010s] Invoking command in '/home/kshitij/project5_ws/build/project_5': /usr/bin/cmake --build /home/kshitij/project5_ws/build/project_5 -- -j12 -l12
+[0.025s] [0mCMake Error: The source directory "/home/kshitij/project5_ws/src" does not appear to contain CMakeLists.txt.
+[0.025s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.026s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.028s] Invoked command in '/home/kshitij/project5_ws/build/project_5' returned '2': /usr/bin/cmake --build /home/kshitij/project5_ws/build/project_5 -- -j12 -l12

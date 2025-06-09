@@ -1,0 +1,20 @@
+[0.011s] Invoking command in '/home/kshitij/project5_ws/build/project_5': /usr/bin/cmake --build /home/kshitij/project5_ws/build/project_5 -- -j12 -l12
+[0.046s] Invoked command in '/home/kshitij/project5_ws/build/project_5' returned '0': /usr/bin/cmake --build /home/kshitij/project5_ws/build/project_5 -- -j12 -l12
+[0.126s] Invoking command in '/home/kshitij/project5_ws/build/project_5': /usr/bin/cmake --install /home/kshitij/project5_ws/build/project_5
+[0.138s] -- Install configuration: ""
+[0.138s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/ament_index/resource_index/package_run_dependencies/project_5
+[0.138s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/ament_index/resource_index/parent_prefix_path/project_5
+[0.139s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/environment/ament_prefix_path.sh
+[0.139s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/environment/ament_prefix_path.dsv
+[0.139s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/environment/path.sh
+[0.139s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/environment/path.dsv
+[0.140s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/local_setup.bash
+[0.140s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/local_setup.sh
+[0.140s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/local_setup.zsh
+[0.140s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/local_setup.dsv
+[0.141s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/package.dsv
+[0.141s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/ament_index/resource_index/packages/project_5
+[0.141s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/cmake/project_5Config.cmake
+[0.141s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/cmake/project_5Config-version.cmake
+[0.141s] -- Up-to-date: /home/kshitij/project5_ws/install/project_5/share/project_5/package.xml
+[0.142s] Invoked command in '/home/kshitij/project5_ws/build/project_5' returned '0': /usr/bin/cmake --install /home/kshitij/project5_ws/build/project_5

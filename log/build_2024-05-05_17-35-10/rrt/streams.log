@@ -1,0 +1,33 @@
+[0.018s] Invoking command in '/home/kshitij/project5_ws/build/rrt': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/kshitij/project5_ws/build/rrt -- -j12 -l12
+[0.053s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.174s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.201s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.204s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.211s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.228s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.255s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.457s] -- Found nav_msgs: 4.2.3 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.698s] -- Configuring done
+[0.703s] -- Generating done
+[0.705s] -- Build files have been written to: /home/kshitij/project5_ws/build/rrt
+[0.740s] Invoked command in '/home/kshitij/project5_ws/build/rrt' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/kshitij/project5_ws/build/rrt -- -j12 -l12
+[0.773s] Invoking command in '/home/kshitij/project5_ws/build/rrt': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/kshitij/project5_ws/build/rrt
+[0.782s] -- Install configuration: ""
+[0.782s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/ament_index/resource_index/package_run_dependencies/rrt
+[0.782s] -- Installing: /home/kshitij/project5_ws/install/rrt/share/ament_index/resource_index/parent_prefix_path/rrt
+[0.783s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/rrt/environment/ament_prefix_path.sh
+[0.783s] -- Installing: /home/kshitij/project5_ws/install/rrt/share/rrt/environment/ament_prefix_path.dsv
+[0.783s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/rrt/environment/path.sh
+[0.783s] -- Installing: /home/kshitij/project5_ws/install/rrt/share/rrt/environment/path.dsv
+[0.784s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/rrt/local_setup.bash
+[0.784s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/rrt/local_setup.sh
+[0.784s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/rrt/local_setup.zsh
+[0.784s] -- Installing: /home/kshitij/project5_ws/install/rrt/share/rrt/local_setup.dsv
+[0.784s] -- Installing: /home/kshitij/project5_ws/install/rrt/share/rrt/package.dsv
+[0.785s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/ament_index/resource_index/packages/rrt
+[0.785s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/rrt/cmake/rrtConfig.cmake
+[0.785s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/rrt/cmake/rrtConfig-version.cmake
+[0.785s] -- Up-to-date: /home/kshitij/project5_ws/install/rrt/share/rrt/package.xml
+[0.785s] -- Installing: /home/kshitij/project5_ws/install/rrt/share/rrt//launch
+[0.785s] -- Installing: /home/kshitij/project5_ws/install/rrt/share/rrt//launch/proj.launch.py
+[0.788s] Invoked command in '/home/kshitij/project5_ws/build/rrt' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/kshitij/project5_ws/build/rrt

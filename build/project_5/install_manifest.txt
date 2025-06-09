@@ -1,0 +1,15 @@
+/home/kshitij/project5_ws/install/project_5/share/ament_index/resource_index/package_run_dependencies/project_5
+/home/kshitij/project5_ws/install/project_5/share/ament_index/resource_index/parent_prefix_path/project_5
+/home/kshitij/project5_ws/install/project_5/share/project_5/environment/ament_prefix_path.sh
+/home/kshitij/project5_ws/install/project_5/share/project_5/environment/ament_prefix_path.dsv
+/home/kshitij/project5_ws/install/project_5/share/project_5/environment/path.sh
+/home/kshitij/project5_ws/install/project_5/share/project_5/environment/path.dsv
+/home/kshitij/project5_ws/install/project_5/share/project_5/local_setup.bash
+/home/kshitij/project5_ws/install/project_5/share/project_5/local_setup.sh
+/home/kshitij/project5_ws/install/project_5/share/project_5/local_setup.zsh
+/home/kshitij/project5_ws/install/project_5/share/project_5/local_setup.dsv
+/home/kshitij/project5_ws/install/project_5/share/project_5/package.dsv
+/home/kshitij/project5_ws/install/project_5/share/ament_index/resource_index/packages/project_5
+/home/kshitij/project5_ws/install/project_5/share/project_5/cmake/project_5Config.cmake
+/home/kshitij/project5_ws/install/project_5/share/project_5/cmake/project_5Config-version.cmake
+/home/kshitij/project5_ws/install/project_5/share/project_5/package.xml

@@ -1,0 +1,2 @@
+Invoking command in '/home/kshitij/project5_ws/build/turtlebot3_msgs': /usr/bin/cmake /home/kshitij/project5_ws/src/turtlebot3_msgs -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kshitij/project5_ws/install/turtlebot3_msgs
+Invoked command in '/home/kshitij/project5_ws/build/turtlebot3_msgs' returned '1': /usr/bin/cmake /home/kshitij/project5_ws/src/turtlebot3_msgs -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kshitij/project5_ws/install/turtlebot3_msgs

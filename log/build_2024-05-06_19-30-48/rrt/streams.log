@@ -1,0 +1,1 @@
+[0.013s] Invoking command in '/home/kshitij/project5_ws/build/rrt': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/kshitij/project5_ws/build/rrt -- -j12 -l12

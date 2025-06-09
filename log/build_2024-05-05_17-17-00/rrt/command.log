@@ -1,0 +1,4 @@
+Invoking command in '/home/kshitij/project5_ws/build/rrt': /usr/bin/cmake --build /home/kshitij/project5_ws/build/rrt -- -j12 -l12
+Invoked command in '/home/kshitij/project5_ws/build/rrt' returned '0': /usr/bin/cmake --build /home/kshitij/project5_ws/build/rrt -- -j12 -l12
+Invoking command in '/home/kshitij/project5_ws/build/rrt': /usr/bin/cmake --install /home/kshitij/project5_ws/build/rrt
+Invoked command in '/home/kshitij/project5_ws/build/rrt' returned '0': /usr/bin/cmake --install /home/kshitij/project5_ws/build/rrt

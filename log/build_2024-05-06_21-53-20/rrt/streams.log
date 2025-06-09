@@ -1,0 +1,9 @@
+[0.431s] Invoking command in '/home/kshitij/project5_ws/build/rrt': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/kshitij/project5_ws/build/rrt -- -j12 -l12
+[0.496s] Built target ament_cmake_python_copy_rrt
+[0.840s] running egg_info
+[0.841s] writing rrt.egg-info/PKG-INFO
+[0.842s] writing dependency_links to rrt.egg-info/dependency_links.txt
+[0.842s] writing top-level names to rrt.egg-info/top_level.txt
+[0.845s] reading manifest file 'rrt.egg-info/SOURCES.txt'
+[0.846s] writing manifest file 'rrt.egg-info/SOURCES.txt'
+[0.868s] Built target ament_cmake_python_build_rrt_egg

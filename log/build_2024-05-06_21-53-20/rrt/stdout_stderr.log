@@ -1,0 +1,8 @@
+Built target ament_cmake_python_copy_rrt
+running egg_info
+writing rrt.egg-info/PKG-INFO
+writing dependency_links to rrt.egg-info/dependency_links.txt
+writing top-level names to rrt.egg-info/top_level.txt
+reading manifest file 'rrt.egg-info/SOURCES.txt'
+writing manifest file 'rrt.egg-info/SOURCES.txt'
+Built target ament_cmake_python_build_rrt_egg
